@@ -4,7 +4,7 @@ Hey, I'm Lucas. I am a Full-Stack Developer and Computer Science Student from �
 
 ## My technologies
 <!-- Will be adding tauri, vite etc -->
-![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,react,html,css,tailwind,express,appwrite,firebase,git,figma,neovim)]
+![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,react,html,css,tailwind,express,appwrite,firebase,git,figma,neovim)
 <!--
 **chauveaul/chauveaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
