@@ -7,10 +7,7 @@ Hey, I'm Lucas. I am a Full-Stack Developer and Computer Science Student from ü
 ![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,react,html,css,tailwind,express,appwrite,firebase,git,figma,neovim)
 
 ## My Current Project
-I am currently working on a Full-Stack web application called [SocialFollower](https://github.com/chauveaul/SocialFollower). This application will be asking the user to connect across various social medias and will then gather progress information from the platform such as followers gained, views, likes etc. This data will be displayed with the use of graphs.
-
-### What will I be learning
-This project is a great way to polish my React skills, along side Tailwind and TypeScript, while also giving me a great opportunity to learn new skills such as Appwrite, Tauri, Vite, and a few others. I will also be able to dive in head first with OAuth, which will give me a better understanding of the concept.
+I am currently working on a Full-Stack web application called [SocialFollower](https://github.com/chauveaul/SocialFollower). This application will be asking the user to connect across various social medias and will then gather progress information from the platform such as followers gained, views, likes etc. This data will be displayed with the use of graphs to give a visual representaion of the progress made.
 
 ## Where to reach me
 You can connect with me on LinkedIn, or sending me a chat on Discord is always a viable option too üòÅ\
