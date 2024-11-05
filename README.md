@@ -7,14 +7,14 @@ Hey, I'm Lucas. I am a Full-Stack Developer and Computer Science Student from �
 ![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,react,html,css,tailwind,express,appwrite,firebase,git,figma,neovim)
 
 ## My Current Project
-I am currently working on a Full-Stack web application called ![SocialFollower](https://github.com/chauveaul/SocialFollower). This application will be asking the user to connect across various social medias and will then gather progress information from the platform such as followers gained, views, likes etc. This data will be displayed with the use of graphs.
+I am currently working on a Full-Stack web application called [![SocialFollower](https://github.com/chauveaul/SocialFollower)]. This application will be asking the user to connect across various social medias and will then gather progress information from the platform such as followers gained, views, likes etc. This data will be displayed with the use of graphs.
 
 ### What will I be learning
 This project is a great way to polish my React skills, along side Tailwind and TypeScript, while also giving me a great opportunity to learn new skills such as Appwrite, Tauri, Vite, and a few others. I will also be able to dive in head first with OAuth, which will give me a better understanding of the concept.
 
 ## Where to reach me
-You can connect with me on LinkedIn, or sending me a chat on Discord is always a viable option too 😁
-[![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)]([https://discord.gg/GYVH5wnM](https://www.linkedin.com/in/lucas-chauveau-201aba308/)) [![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg)](https://discord.gg/GYVH5wnM)
+You can connect with me on LinkedIn, or sending me a chat on Discord is always a viable option too 😁\
+[![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)]([https://discord.gg/GYVH5wnM](https://www.linkedin.com/in/lucas-chauveau-201aba308/) [![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg)](https://discord.gg/GYVH5wnM)
 
 <!--
 **chauveaul/chauveaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
