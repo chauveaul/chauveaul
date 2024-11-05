@@ -11,6 +11,7 @@ I am currently working on a Full-Stack web application called [SocialFollower](h
 
 ## Where to reach me
 You can connect with me on LinkedIn, or sending me a chat on Discord is always a viable option too 😁\
+\
 [![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://www.linkedin.com/in/lucas-chauveau-201aba308/) [![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg)](https://discord.gg/GYVH5wnM)
 
 <!--
