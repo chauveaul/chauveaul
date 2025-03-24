@@ -4,7 +4,7 @@ Hey, I'm Lucas. I am a Full-Stack Developer and Computer Science Student from ðŸ
 
 ## My technologies
 <!-- Will be adding tauri, vite etc -->
-![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,react,html,css,java,tailwind,express,appwrite,firebase,git,figma,neovim)
+![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,react,html,css,java,tailwind,express,appwrite,firebase,git,figma,neovim,go)
 
 ## My Current Project
 I am currently working on writing an interpreter for a custom made language from scratch. This project is being achieved in go, giving me the opportunity to understand programming languages on a deeper level, all while learning golang that I have been looking at for a while.
